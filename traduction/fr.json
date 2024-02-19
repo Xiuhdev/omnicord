@@ -1,0 +1,5 @@
+{
+  "error_guild_id": "Cette commande est seulement utilisable dans un serveur.",
+  "error_user_is_banned": "Vous avez été restreint à l'usage des fonctionnalités de Omnicord par notre équipe, si vous pensez que cela est une erreur, veuillez contacter notre équipe d'assistance.",
+  "error_guild_blacklisted": "Vous avez été restreint à l'usage des fonctionnalités par un modérateur de ce serveur."
+}
